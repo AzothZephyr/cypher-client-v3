@@ -13,7 +13,7 @@ defaults:
 
 env:
   CARGO_TERM_COLOR: always
-  RUST_TOOLCHAIN: 1.66.0
+  RUST_TOOLCHAIN: 1.68.0
 
 jobs:
   cargo-audit:
